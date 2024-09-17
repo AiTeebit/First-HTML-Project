@@ -1,0 +1,20 @@
+
+.top{
+    color: bisque;
+    background: url(Assets/others/logo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    padding: 5px;
+    margin: 0px;
+    background-attachment: fixed;
+   
+}
+.full{
+    margin: 0;
+    padding: 0;
+    display: flex;
+   
+}
