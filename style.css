@@ -41,6 +41,17 @@ button{
 margin: 20px;
 } */
 
+
+.dptmts{
+    background-image: url(Assets/pics/bgn1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
 /* Basic styles for the dropdown container */
 .dropdown {
     position: relative;
@@ -57,13 +68,8 @@ margin: 20px;
     border: none; /* Remove border */
     cursor: pointer; /* Pointer cursor on hover */
     border-radius: 25px; 
-    
 }
 
-#dpn{
-    overflow-x: visible;
-    overflow-y: visible;
-}
 
 /* The dropdown menu (hidden by default) */
 .dropdown-content {
